@@ -1,0 +1,22 @@
+# Title: Crept/hosts3
+#
+# This hosts file is a test file to lockdown websites using ads.
+# Website testing: paramountplus.com
+# Date: 15January 2025
+#
+# Crept's project home page: https://github.com/Creptian/DNS-Block-List/blob/main/prehost.txt
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+#
+#=====================================
+# Title: Hosts by Creptian
+# Start of Crept list
+
+
+
+# End of Crept list
